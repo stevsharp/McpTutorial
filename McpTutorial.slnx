@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VetClinic.McpClient/VetClinic.McpClient.csproj" />
+  <Project Path="VetClinic.McpServer/VetClinic.McpServer.csproj" />
+</Solution>
